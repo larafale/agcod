@@ -1,0 +1,13 @@
+{
+  "name": "agcod",
+  "version": "1.0.0",
+  "dependencies": {
+    "aws4": "^1.6.0",
+    "superagent": "^3.5.2"
+  },
+  "scripts": {
+    "start": "",
+    "build": "",
+    "test": ""
+  }
+}
